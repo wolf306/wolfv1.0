@@ -7,54 +7,54 @@ const help = (prefix) => {
  
         ”9þ3:ã€„1¤7 $INÃšTEIS*  :”9þ3
 
-(  ${prefix}blocklist )
-( ã€LISTA DE BLOCKã€)
-( ${prefix}chatlist)
-(ã€LISTA CHATã€‘âŒ) 
-(${prefix}ping)
-(ã€PING)
-( ${prefix}bugreport)
+${prefix}Blocklist
+Lista de contatos bloqueados
+${prefix}chatlist
+Lista de chat 
+${prefix}ping
+PING
+${prefix}bugreport
 
- ( *ZOAÃ‡ÃƒO* :)
+      Zoação
 
- (  ${prefix}%GADO)  
- (  ${prefix}%CORNO(A))
- (  ${prefix}%NAMORARESSEANO)
- (  ${prefix}%GAY)
+${prefix}%GADO  
+${prefix}%CORNO(A)
+${prefix}%NAMORARESSEANO
+${prefix}%GAY
 
-    ( *MAIS USADOS RECENTEMENTE* )
+      MAIS USADOS RECENTEMENTE
 
-  (${prefix}sticker)
-  (ã€FAZER FIGURINHA)
-  (${prefix}toimg)
-  (ã€CONVERTE FIGURINHA EM IMAGEM)
-  (${prefix}tomp3)
-  (ã€PEGAR ÃUDIO DE ALGUM VÃDEO)
+${prefix}sticker
+FAZER FIGURINHA
+${prefix}toimg
+CONVERTE FIGURINHA EM IMAGEM
+${prefix}tomp3
+PEGAR ÃUDIO DE ALGUM VIDEO)
 
-     (ã€FOTOS ANIME/LOLI e etcã€„1¤7)
+     FOTOS ANIME/LOLI e etc
 
- ( ${prefix}loli)
- (= ã€foto de loli =) 
- (${prefix}nekoanime)
- (= ã€NEKO ANIME =) 
- (${prefix}randomanime)
- (=ã€anime aleatÃ³rio=)
- (${prefix}pokÃ©mon)
- (= ã€foto de pokÃ©mon=)
+${prefix}loli
+foto de loli
+${prefix}nekoanime
+NEKO ANIME
+${prefix}randomanime
+anime aleatorio
+${prefix}pokÃ©mon
+foto de pokemon
 
-      ( *MELHORES SOBRE ÃUDIO*)
+      Melhores sobre audio
       
- ( âž„1¤7 ${prefix}play nome da mÃºsica)
- (=ã€DOWNLOAD MÃšSICA=)
- ( ${prefix}tts pt texto)
- (=ã€FALAR SEU TEXTO=)
+${prefix}play nome da musica
+Dawloand de uma musica
+${prefix}tts pt texto
+Fala um texto
 
-  +18 *NÃƒO USE NO GRUPO SUJEITO A BAN*
+  +18 não usa em grupo mongoloide
 
- ( âž„1¤7${prefix}hentai )
- (=ã€foto hentai=)
- ( ${prefix}randomhentaio)
- (ã€random hentai)
+${prefix}hentai
+foto hentai
+${prefix}randomhentaio
+random hentai
 
         ( ã€„1¤7 ð‘¶ð‘¼ð‘»ð‘¹ð‘¶ð‘º ã€„1¤7)
   
@@ -67,13 +67,7 @@ const help = (prefix) => {
   âž„1¤7 ${prefix}fml
   âž„1¤7 ${prefix}fml2
 
-
-
-
-
-
-
-          ã€„1¤7 *FONTES* ã€„1¤7
+          FONTES
 
   âž„1¤7 ${prefix}bpink
   âž„1¤7 ${prefix}marvellogo
@@ -107,136 +101,94 @@ const help = (prefix) => {
   âž„1¤7 ${prefix}pubglogo
   âž„1¤7 ${prefix}quotemaker
         
-       (ã€„1¤7 *MEDIA* ã€„1¤7)
+       MEDIA
   
-
-(  âž„1¤7 ${prefix}trendtwit)
-(  âž„1¤7 ${prefix}randomkpop)
-(=ã€FOTOS ALEATÃ“RIA DE KPOPðŸ¤¢=)
-( âž„1¤7 ${prefix}ytsearch)
-(=ã€PESQUISA=)
+${prefix}trendtwit
+${prefix}randomkpop
+Foto de kapop
+${prefix}ytsearch
+PESQUISA
       
-
-
-    (*EDUCAÃ‡ÃƒO*)
+    Educação
   
-  (${prefix}wiki)
-  (${prefix}wikien)
-  (${prefix}nulis)
-  (${prefix}quotes)
-  (${prefix}quotes2)
-  (${prefix}artinama)
+${prefix}wiki
+${prefix}wikien
+${prefix}nulis
+${prefix}quotes
+${prefix}quotes2
+${prefix}artinama
 
-
-     (ã€„1¤7 *DOWNLOADER* ã€„1¤7)
+     DOWNLOADER
   
- (${prefix}images)
- (=ã€IMAGENS ALEATÃ“RIA=)
- (${prefix}ytmp3)
- (=ã€MP3=)
- (${prefix}ytmp4)
- (=ã€DOWNLOAD MP4(VIDEO)=)
- (${prefix}tiktok)
- (${prefix}joox)
+ ${prefix}images
+Imagem aleatoria
+${prefix}ytmp3
+MP3
+${prefix}ytmp4
+DOWNLOAD MP4(VIDEO)
+${prefix}tiktok
+${prefix}joox
          
-
-           (*MEME*)
+           MEME
       
-
-
-  (${prefix}meme)
-  (=ã€MEME INDONÃ‰SIO=)
-  (${prefix}memeindo)
-  (=ã€MEMEINDO INDONESIO=)
+${prefix}meme
+Meme
+${prefix}memeindo
+ Meme sla oq
  
-
-
-
-
-     (*MÃšSICA* )
+     MÃšSICA
   
-  (${prefix}lirik)
-  (${prefix}chord)
+${prefix}lirik
+${prefix}chord
 
-
-
-      (*ISLAM*)
+      ISLAM
   
-   (${prefix}quran)
+${prefix}quran
 
-
-
-
-
-       (*STALK*)
+       STALK
   
+${prefix}tiktokstalk
+stalkear tik tok
+${prefix}igstalk
+
+        WIBU
+
+${prefix}neonime
+${prefix}pokemon
+${prefix}loli
+${prefix}waifu
+${prefix}randomanime
+${prefix}husbu
+${prefix}husbu2
+${prefix}wait
+${prefix}nekonime
+
+      DIVERSÃO
   
- (${prefix}tiktokstalk)
- (=ã€stalkear tik tok=)
- (${prefix}igstalk)
+${prefix}alay
+${prefix}gantengcek
+${prefix}watak
+${prefix}hobby
+${prefix}game
+${prefix}bucin
+${prefix}trust
+${prefix}dare
 
 
-
-
-
-        (ã€„1¤7 *WIBU* ã€„1¤7)
-
-  
-  (âž„1¤7 ${prefix}neonime)
-  (âž„1¤7 ${prefix}pokemon)
-  (âž„1¤7 ${prefix}loli)
-  (âž„1¤7 ${prefix}waifu)
-  (âž„1¤7 ${prefix}randomanime)
-  (âž„1¤7 ${prefix}husbu)
-  (âž„1¤7 ${prefix}husbu2)
-  (âž„1¤7 ${prefix}wait)
-  (âž„1¤7 ${prefix}nekonime)
-
-
-
-      ã€„1¤7 *DIVERSÃƒO* ã€„1¤7
-  
-  âž„1¤7 ${prefix}alay
-  âž„1¤7 ${prefix}gantengcek
-  âž„1¤7 ${prefix}watak
-  âž„1¤7 ${prefix}hobby
-  âž„1¤7 ${prefix}game
-  âž„1¤7 ${prefix}bucin
-  âž„1¤7 ${prefix}trust
-  âž„1¤7 ${prefix}dare
-  âž„1¤7 ${prefix}simi
-
-
-
-
-
-         ã€„1¤7 *INFORMAÃ‡ÃƒO* ã€„1¤7
-  
-  âž„1¤7 ${prefix}bahasa
-     ã€SABER TODOS CÃ“DIGO DE PAISã€„1¤7
-  âž„1¤7 ${prefix}kodenegara
-  âž„1¤7 ${prefix}kbbi
-  âž„1¤7 ${prefix}fakta
-  âž„1¤7 ${prefix}infocuaca
-  âž„1¤7 ${prefix}infogempa
-  âž„1¤7 ${prefix}jadwaltvnow
-  âž„1¤7 ${prefix}covid
-
-
-          ã€„1¤7 SÃ“ FUNCIONA COM O DONO ã€„1¤7
+          So o dono
 
 
   
-   âž„1¤7 ${prefix}setprefix
-     ã€MUDAR PREFIXOã€„1¤7
-   âž„1¤7 ${prefix}block
-     ã€BLOQUEARã€„1¤7
-   âž„1¤7 ${prefix}bc
+${prefix}setprefix
+     Mudar prefixo
+${prefix}block
+     Bloquear
+${prefix}bc
      ã€TMã€„1¤7
-   âž„1¤7 ${prefix}bcgc
-     ã€TM SÃ“ PARA MEMBROS DO GPã€„1¤7
-   âž„1¤7 ${prefix}clearall
-     ã€APAGAR TODAS MSGã€„1¤7
+${prefix}bcgc
+    TM SÃo PARA MEMBROS DO GP
+${prefix}clearall
+     Apagar as msgm
 
 `
 }
