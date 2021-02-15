@@ -2,20 +2,20 @@ const help = (prefix) => {
 	return `         
 
    
-                  �9�8�1�4�9�3�1�4�9�4�1�4�9�6�1�4�9�9�1�4�9�0�1�4�9�3�1�4  �3�2�3�6l�4�0
+                  criador:₩olf 
         numero do criador: wa.me/+55062996281966
  
-        �9�3:〄1�7 $INÚTEIS*  :�9�3
+        ”9þ3:ã€„1¤7 $INÃšTEIS*  :”9þ3
 
 (  ${prefix}blocklist )
-( 【LISTA DE BLOCK�)
+( ã€LISTA DE BLOCKã€)
 ( ${prefix}chatlist)
-(【LISTA CHAT】❌) 
+(ã€LISTA CHATã€‘âŒ) 
 (${prefix}ping)
-(【PING)
+(ã€PING)
 ( ${prefix}bugreport)
 
- ( *ZOAÇÃO* :)
+ ( *ZOAÃ‡ÃƒO* :)
 
  (  ${prefix}%GADO)  
  (  ${prefix}%CORNO(A))
@@ -25,47 +25,47 @@ const help = (prefix) => {
     ( *MAIS USADOS RECENTEMENTE* )
 
   (${prefix}sticker)
-  (【FAZER FIGURINHA)
+  (ã€FAZER FIGURINHA)
   (${prefix}toimg)
-  (【CONVERTE FIGURINHA EM IMAGEM)
+  (ã€CONVERTE FIGURINHA EM IMAGEM)
   (${prefix}tomp3)
-  (【PEGAR ÁUDIO DE ALGUM VÍDEO)
+  (ã€PEGAR ÃUDIO DE ALGUM VÃDEO)
 
-     (【FOTOS ANIME/LOLI e etc〄1�7)
+     (ã€FOTOS ANIME/LOLI e etcã€„1¤7)
 
  ( ${prefix}loli)
- (= 【foto de loli =) 
+ (= ã€foto de loli =) 
  (${prefix}nekoanime)
- (= 【NEKO ANIME =) 
+ (= ã€NEKO ANIME =) 
  (${prefix}randomanime)
- (=【anime aleatório=)
- (${prefix}pokémon)
- (= 【foto de pokémon=)
+ (=ã€anime aleatÃ³rio=)
+ (${prefix}pokÃ©mon)
+ (= ã€foto de pokÃ©mon=)
 
-      ( *MELHORES SOBRE ÁUDIO*)
+      ( *MELHORES SOBRE ÃUDIO*)
       
- ( ➄1�7 ${prefix}play nome da música)
- (=【DOWNLOAD MÚSICA=)
+ ( âž„1¤7 ${prefix}play nome da mÃºsica)
+ (=ã€DOWNLOAD MÃšSICA=)
  ( ${prefix}tts pt texto)
- (=【FALAR SEU TEXTO=)
+ (=ã€FALAR SEU TEXTO=)
 
-  +18 *NÃO USE NO GRUPO SUJEITO A BAN*
+  +18 *NÃƒO USE NO GRUPO SUJEITO A BAN*
 
- ( ➄1�7${prefix}hentai )
- (=【foto hentai=)
+ ( âž„1¤7${prefix}hentai )
+ (=ã€foto hentai=)
  ( ${prefix}randomhentaio)
- (【random hentai)
+ (ã€random hentai)
 
-        ( 〄1�7 𝑶𝑼𝑻𝑹𝑶𝑺 〄1�7)
+        ( ã€„1¤7 ð‘¶ð‘¼ð‘»ð‘¹ð‘¶ð‘º ã€„1¤7)
   
-  ➄1�7 ${prefix}send
-  ➄1�7 ${prefix}wame
-  ➄1�7 ${prefix}exe
-  ➄1�7 ${prefix}qrcode
-  ➄1�7 ${prefix}afk
-  ➄1�7 ${prefix}timer
-  ➄1�7 ${prefix}fml
-  ➄1�7 ${prefix}fml2
+  âž„1¤7 ${prefix}send
+  âž„1¤7 ${prefix}wame
+  âž„1¤7 ${prefix}exe
+  âž„1¤7 ${prefix}qrcode
+  âž„1¤7 ${prefix}afk
+  âž„1¤7 ${prefix}timer
+  âž„1¤7 ${prefix}fml
+  âž„1¤7 ${prefix}fml2
 
 
 
@@ -73,52 +73,52 @@ const help = (prefix) => {
 
 
 
-          〄1�7 *FONTES* 〄1�7
+          ã€„1¤7 *FONTES* ã€„1¤7
 
-  ➄1�7 ${prefix}bpink
-  ➄1�7 ${prefix}marvellogo
-  ➄1�7 ${prefix}snowwrite
-  ➄1�7 ${prefix}3dtext
-  ➄1�7 ${prefix}ninjalogo
-  ➄1�7 ${prefix}water
-  ➄1�7 ${prefix}firetext
-  ➄1�7 ${prefix}logowolf
-  ➄1�7 ${prefix}logowolf2
-  ➄1�7 ${prefix}phlogo
-  ➄1�7 ${prefix}glitch        𝑨 𝑴𝑨𝑰𝑶𝑹𝑰𝑨 𝑵𝑨̃𝑶 𝑷𝑬𝑮𝑨         
-  ➄1�7 ${prefix}neonlogo
-  ➄1�7 ${prefix}neonlogo2
-  ➄1�7 ${prefix}lionlogo
-  ➄1�7 ${prefix}jokerlogo
-  ➄1�7 ${prefix}shadow
-  ➄1�7 ${prefix}burnpaper
-  ➄1�7 ${prefix}coffee
-  ➄1�7 ${prefix}lovepaper
-  ➄1�7 ${prefix}woodblock
-  ➄1�7 ${prefix}qowheart
-  ➄1�7 ${prefix}mutgrass
-  ➄1�7 ${prefix}undergocean
-  ➄1�7 ${prefix}woodenboards
-  ➄1�7 ${prefix}wolfmetal
-  ➄1�7 ${prefix}metalictglow
-  ➄1�7 ${prefix}8bit
-  ➄1�7 ${prefix}ttp
-  ➄1�7 ${prefix}herrypotter
-  ➄1�7 ${prefix}pubglogo
-  ➄1�7 ${prefix}quotemaker
+  âž„1¤7 ${prefix}bpink
+  âž„1¤7 ${prefix}marvellogo
+  âž„1¤7 ${prefix}snowwrite
+  âž„1¤7 ${prefix}3dtext
+  âž„1¤7 ${prefix}ninjalogo
+  âž„1¤7 ${prefix}water
+  âž„1¤7 ${prefix}firetext
+  âž„1¤7 ${prefix}logowolf
+  âž„1¤7 ${prefix}logowolf2
+  âž„1¤7 ${prefix}phlogo
+  âž„1¤7 ${prefix}glitch        ð‘¨ ð‘´ð‘¨ð‘°ð‘¶ð‘¹ð‘°ð‘¨ ð‘µð‘¨Ìƒð‘¶ ð‘·ð‘¬ð‘®ð‘¨         
+  âž„1¤7 ${prefix}neonlogo
+  âž„1¤7 ${prefix}neonlogo2
+  âž„1¤7 ${prefix}lionlogo
+  âž„1¤7 ${prefix}jokerlogo
+  âž„1¤7 ${prefix}shadow
+  âž„1¤7 ${prefix}burnpaper
+  âž„1¤7 ${prefix}coffee
+  âž„1¤7 ${prefix}lovepaper
+  âž„1¤7 ${prefix}woodblock
+  âž„1¤7 ${prefix}qowheart
+  âž„1¤7 ${prefix}mutgrass
+  âž„1¤7 ${prefix}undergocean
+  âž„1¤7 ${prefix}woodenboards
+  âž„1¤7 ${prefix}wolfmetal
+  âž„1¤7 ${prefix}metalictglow
+  âž„1¤7 ${prefix}8bit
+  âž„1¤7 ${prefix}ttp
+  âž„1¤7 ${prefix}herrypotter
+  âž„1¤7 ${prefix}pubglogo
+  âž„1¤7 ${prefix}quotemaker
         
-       (〄1�7 *MEDIA* 〄1�7)
+       (ã€„1¤7 *MEDIA* ã€„1¤7)
   
 
-(  ➄1�7 ${prefix}trendtwit)
-(  ➄1�7 ${prefix}randomkpop)
-(=【FOTOS ALEATÓRIA DE KPOP🤢=)
-( ➄1�7 ${prefix}ytsearch)
-(=【PESQUISA=)
+(  âž„1¤7 ${prefix}trendtwit)
+(  âž„1¤7 ${prefix}randomkpop)
+(=ã€FOTOS ALEATÃ“RIA DE KPOPðŸ¤¢=)
+( âž„1¤7 ${prefix}ytsearch)
+(=ã€PESQUISA=)
       
 
 
-    (*EDUCAÇÃO*)
+    (*EDUCAÃ‡ÃƒO*)
   
   (${prefix}wiki)
   (${prefix}wikien)
@@ -128,14 +128,14 @@ const help = (prefix) => {
   (${prefix}artinama)
 
 
-     (〄1�7 *DOWNLOADER* 〄1�7)
+     (ã€„1¤7 *DOWNLOADER* ã€„1¤7)
   
  (${prefix}images)
- (=【IMAGENS ALEATÓRIA=)
+ (=ã€IMAGENS ALEATÃ“RIA=)
  (${prefix}ytmp3)
- (=【MP3=)
+ (=ã€MP3=)
  (${prefix}ytmp4)
- (=【DOWNLOAD MP4(VIDEO)=)
+ (=ã€DOWNLOAD MP4(VIDEO)=)
  (${prefix}tiktok)
  (${prefix}joox)
          
@@ -145,15 +145,15 @@ const help = (prefix) => {
 
 
   (${prefix}meme)
-  (=【MEME INDONÉSIO=)
+  (=ã€MEME INDONÃ‰SIO=)
   (${prefix}memeindo)
-  (=【MEMEINDO INDONESIO=)
+  (=ã€MEMEINDO INDONESIO=)
  
 
 
 
 
-     (*MÚSICA* )
+     (*MÃšSICA* )
   
   (${prefix}lirik)
   (${prefix}chord)
@@ -172,71 +172,71 @@ const help = (prefix) => {
   
   
  (${prefix}tiktokstalk)
- (=【stalkear tik tok=)
+ (=ã€stalkear tik tok=)
  (${prefix}igstalk)
 
 
 
 
 
-        (〄1�7 *WIBU* 〄1�7)
+        (ã€„1¤7 *WIBU* ã€„1¤7)
 
   
-  (➄1�7 ${prefix}neonime)
-  (➄1�7 ${prefix}pokemon)
-  (➄1�7 ${prefix}loli)
-  (➄1�7 ${prefix}waifu)
-  (➄1�7 ${prefix}randomanime)
-  (➄1�7 ${prefix}husbu)
-  (➄1�7 ${prefix}husbu2)
-  (➄1�7 ${prefix}wait)
-  (➄1�7 ${prefix}nekonime)
+  (âž„1¤7 ${prefix}neonime)
+  (âž„1¤7 ${prefix}pokemon)
+  (âž„1¤7 ${prefix}loli)
+  (âž„1¤7 ${prefix}waifu)
+  (âž„1¤7 ${prefix}randomanime)
+  (âž„1¤7 ${prefix}husbu)
+  (âž„1¤7 ${prefix}husbu2)
+  (âž„1¤7 ${prefix}wait)
+  (âž„1¤7 ${prefix}nekonime)
 
 
 
-      〄1�7 *DIVERSÃO* 〄1�7
+      ã€„1¤7 *DIVERSÃƒO* ã€„1¤7
   
-  ➄1�7 ${prefix}alay
-  ➄1�7 ${prefix}gantengcek
-  ➄1�7 ${prefix}watak
-  ➄1�7 ${prefix}hobby
-  ➄1�7 ${prefix}game
-  ➄1�7 ${prefix}bucin
-  ➄1�7 ${prefix}trust
-  ➄1�7 ${prefix}dare
-  ➄1�7 ${prefix}simi
+  âž„1¤7 ${prefix}alay
+  âž„1¤7 ${prefix}gantengcek
+  âž„1¤7 ${prefix}watak
+  âž„1¤7 ${prefix}hobby
+  âž„1¤7 ${prefix}game
+  âž„1¤7 ${prefix}bucin
+  âž„1¤7 ${prefix}trust
+  âž„1¤7 ${prefix}dare
+  âž„1¤7 ${prefix}simi
 
 
 
 
 
-         〄1�7 *INFORMAÇÃO* 〄1�7
+         ã€„1¤7 *INFORMAÃ‡ÃƒO* ã€„1¤7
   
-  ➄1�7 ${prefix}bahasa
-     【SABER TODOS CÓDIGO DE PAIS〄1�7
-  ➄1�7 ${prefix}kodenegara
-  ➄1�7 ${prefix}kbbi
-  ➄1�7 ${prefix}fakta
-  ➄1�7 ${prefix}infocuaca
-  ➄1�7 ${prefix}infogempa
-  ➄1�7 ${prefix}jadwaltvnow
-  ➄1�7 ${prefix}covid
+  âž„1¤7 ${prefix}bahasa
+     ã€SABER TODOS CÃ“DIGO DE PAISã€„1¤7
+  âž„1¤7 ${prefix}kodenegara
+  âž„1¤7 ${prefix}kbbi
+  âž„1¤7 ${prefix}fakta
+  âž„1¤7 ${prefix}infocuaca
+  âž„1¤7 ${prefix}infogempa
+  âž„1¤7 ${prefix}jadwaltvnow
+  âž„1¤7 ${prefix}covid
 
 
-          〄1�7 SÓ FUNCIONA COM O DONO 〄1�7
+          ã€„1¤7 SÃ“ FUNCIONA COM O DONO ã€„1¤7
 
 
   
-   ➄1�7 ${prefix}setprefix
-     【MUDAR PREFIXO〄1�7
-   ➄1�7 ${prefix}block
-     【BLOQUEAR〄1�7
-   ➄1�7 ${prefix}bc
-     【TM〄1�7
-   ➄1�7 ${prefix}bcgc
-     【TM SÓ PARA MEMBROS DO GP〄1�7
-   ➄1�7 ${prefix}clearall
-     【APAGAR TODAS MSG〄1�7
+   âž„1¤7 ${prefix}setprefix
+     ã€MUDAR PREFIXOã€„1¤7
+   âž„1¤7 ${prefix}block
+     ã€BLOQUEARã€„1¤7
+   âž„1¤7 ${prefix}bc
+     ã€TMã€„1¤7
+   âž„1¤7 ${prefix}bcgc
+     ã€TM SÃ“ PARA MEMBROS DO GPã€„1¤7
+   âž„1¤7 ${prefix}clearall
+     ã€APAGAR TODAS MSGã€„1¤7
 
 `
 }
