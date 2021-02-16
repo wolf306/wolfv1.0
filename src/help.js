@@ -2,9 +2,10 @@ const help = (prefix) => {
 	return `         
 
    
-                  criador:₩olf 
-        numero do criador: wa.me/+55062996281966
- 
+                  Bot do ₩olf 
+        numero do wolf: wa.me/+55062996281966
+ CANAL DO NABUTO: https://youtube.com/channel/UCZEtf9AlsC2zsJQwrfW-44w
+
         ”9þ3:ã€„1¤7 $INÃšTEIS*  :”9þ3
 
 ${prefix}Blocklist
